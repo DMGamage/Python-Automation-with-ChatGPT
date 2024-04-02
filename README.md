@@ -39,6 +39,6 @@ Contributions are welcome! If you have any ideas for improvements or feature req
 
 ## Contact
 
-For any questions or inquiries, please contact [your_email@example.com].
+For any questions or inquiries, please contact [gamagemadhushan@gmail.com].
 
 Happy cleaning! 🧹
